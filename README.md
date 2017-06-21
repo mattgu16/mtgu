@@ -1,2 +1,2 @@
-# mtgu
+# MTGU
 Personal Website/Portfolio
