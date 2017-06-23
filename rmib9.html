@@ -22,9 +22,7 @@
                     </a>    
                     <div id="navcontainer">
                         <ul>
-                            <li><a href="spreadsheet.html">Projects</a></li>
-                            <li><a href="MSPortfolio/index.html">Middle School Portfolio</a></li>
-                            <li><a href="rmib9.html">RMHS 9th Grade IB Guide</a></li>
+                            <li><a href="projects.html">Projects</a></li>
                         </ul>
                     </div>
                 </div>
